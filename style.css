@@ -2,8 +2,9 @@
   body {
     background-image: url("https://cdn.pixabay.com/photo/2016/05/14/03/24/girl-in-the-gym-1391368_640.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
+    /* background-size: auto; */
+    background-size: 300px 100px;
+    /* background-position: center; */
     
   }
 
