@@ -1,16 +1,16 @@
 
   body {
-    background-image: url("https://cdn.pixabay.com/photo/2016/05/14/03/24/girl-in-the-gym-1391368_640.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2015/07/02/10/23/training-828741_640.jpg");
     background-repeat: no-repeat;
     /* background-size: auto; */
-    background-size: 300px 100px;
+    background-size: 1600px 800px;
     /* background-position: center; */
     
   }
 
 /* Basic styles for the navigation bar */
   nav {
-    background-color: #B0A695;
+    background-color: #092635;
     padding: 10px;
   }
 
