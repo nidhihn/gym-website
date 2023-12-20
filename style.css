@@ -3,7 +3,8 @@
     background-image: url("https://cdn.pixabay.com/photo/2015/07/02/10/23/training-828741_640.jpg");
     background-repeat: no-repeat;
     /* background-size: auto; */
-    background-size: 1600px 800px;
+    /* background-size: 1600px 800px; */
+    background-size: cover;
     /* background-position: center; */
     
   }
