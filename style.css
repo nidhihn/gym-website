@@ -36,6 +36,12 @@
     text-decoration: none;
     
   }
+  .topsection{
+    color: aliceblue;
+    display: flex;
+    
+    
+  }
   
   /* Media query for responsive design */
   @media screen and (max-width: 600px) {
