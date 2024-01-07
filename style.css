@@ -39,8 +39,16 @@
   .topsection{
     color: aliceblue;
     display: flex;
-    
-    
+    font-size: 2.5rem; 
+  }
+  .firstsection div{
+    width: 30%;
+  }
+  .firstsection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px 0;
   }
   
   /* Media query for responsive design */
